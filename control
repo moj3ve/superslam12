@@ -1,12 +1,9 @@
 Package: me.shymemoriees.superslam12
 Name: Superslam12
 Depends: mobilesubstrate, libactivator
-Version: 1.3.3
+Version: 1.3.4
 Architecture: iphoneos-arm
 Description: Make John Cena appear on your home screen
 Maintainer: ShyMemoriees <memories@tw3lve.space>
 Author: ShyMemoriees <memories@tw3lve.space>
 Section: Tweaks
-SileoDepiction: https://repo.memor1es.me/depicitions/suslm/index.html
-Depiction: https://repo.memor1es.me/depicitions/suslm/index.html
-Icon: https://repo.memor1es.me/depicitions/suslm/assets/icon.png
